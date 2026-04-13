@@ -2,7 +2,7 @@
 
 **A Production-Grade, Modular Analytics Dashboard for WhatsApp Exports.**
 
-Live-Demo: https://whatsapp-chat-analyzer-ak.streamlit.app/
+Live-Demo: https://whatsapp-chat-analyzer-ak.streamlit.app
 
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Streamlit Version](https://img.shields.io/badge/streamlit-1.56+-FF4B4B.svg)
